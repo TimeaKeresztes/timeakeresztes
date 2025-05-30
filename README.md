@@ -11,14 +11,14 @@
 
 ## Hi there 👋  
 
-👩‍💻 I'm a junior frontend developer passionate about building clean and user-friendly web interfaces
+👩‍💻 I'm a frontend developer passionate about building clean and user-friendly web interfaces
 
 🌐 Work mainly with JavaScript, HTML, and CSS
 
-⚛️ Focusing on React and Tailwind CSS for modern UI development
+⚛️ Focusing on React, Next.js and Tailwind CSS for modern UI development
 
 🛠️ Love solving problems through code and learning by doing
 
 📈 Constantly working on improving my skills through personal projects
 
-🚀 Currently looking for an entry-level opportunity where I can grow and contribute as part of a team
+🚀 Currently looking for an opportunity where I can grow and contribute as part of a team
