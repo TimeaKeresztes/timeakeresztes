@@ -20,5 +20,3 @@
 🛠️ Love solving problems through code and learning by doing
 
 📈 Constantly working on improving my skills through personal projects
-
-🚀 Currently looking for an opportunity where I can grow and contribute as part of a team
